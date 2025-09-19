@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sadiya595/SmartEcoNet-AI-Energy-Optimization/main/assets/banner.png" alt="SmartEcoNet Banner" width="800"/>
-</p>
 
 # ⚡ SmartEcoNet: AI-Powered Energy Optimization
 
 [![Python Version](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Deployment-orange?style=flat-square)](https://share.streamlit.io/sadiya595/SmartEcoNet-AI-Energy-Optimization/main/app.py)
 [![Repo Size](https://img.shields.io/github/repo-size/sadiya595/SmartEcoNet-AI-Energy-Optimization?style=flat-square)](https://github.com/sadiya595/SmartEcoNet-AI-Energy-Optimization)
 [![Downloads](https://img.shields.io/github/downloads/sadiya595/SmartEcoNet-AI-Energy-Optimization/total?style=flat-square)](https://github.com/sadiya595/SmartEcoNet-AI-Energy-Optimization/releases)
 
