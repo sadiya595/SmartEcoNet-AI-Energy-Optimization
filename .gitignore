@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+.DS_Store
+*.log
+# If you DON'T want to add model files, uncomment next line
+# *.pkl
